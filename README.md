@@ -3,12 +3,12 @@ This repository provides a comprehensive list of multi-modal datasets for comput
 
 ## Table of Contents
 
-- [Image-Text Pair Datasets](https://www.notion.so/Multi-Modal-Foundation-Models-for-CPath-1ba297344bd08023a2b6dace4bc0bb76?pvs=21)
-- [Multi-Modal Instruction Datasets](https://www.notion.so/Multi-Modal-Foundation-Models-for-CPath-1ba297344bd08023a2b6dace4bc0bb76?pvs=21)
-- [Acknowledgements](https://www.notion.so/Multi-Modal-Foundation-Models-for-CPath-1ba297344bd08023a2b6dace4bc0bb76?pvs=21)
+- [Image-Text Pair Datasets](#image-text-pair-datasets)
+- [Multi-Modal Instruction Datasets](#multi-modal-instruction-datasets)
+- [Acknowledgements](#acknowledgements)
 
 ---
-
+<a id="image-text-pair-datasets"></a>
 ## Image-Text Pair Datasets
 
 ### 1. **QUILT**
@@ -142,7 +142,7 @@ This repository provides a comprehensive list of multi-modal datasets for comput
 - **LLM Assisted:** ❌
 
 ---
-
+<a id="multi-modal-instruction-datasets"></a>
 ## Multi-Modal Instruction Datasets
 
 ### 1. **PathInstrucT**
@@ -216,12 +216,12 @@ This repository provides a comprehensive list of multi-modal datasets for comput
 - **LLM Assisted:** ❌
 
 ---
-
+<a id="acknowledgements"></a>
 ## Acknowledgements
 
 This repository was curated based on datasets used in computational pathology research. Thank you to the respective authors and contributors for making these datasets available.
 
-For any questions, feel free to raise an [issue](https://github.com/your-repo/issues) or contact us.
+For any questions, feel free to raise an [issue](https://github.com/cool-breeze-and-rain/Multi-Modal-Datasets-for-CPath/issues/new) or contact us.
 
 ---
 
